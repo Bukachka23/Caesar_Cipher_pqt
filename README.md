@@ -21,7 +21,7 @@ Note: Only letters are encrypted and decrypted. Any non-letter characters will r
 
 This program requires Python 3 and the tkinter module to be installed.
 
-#How to run
+# How to run
 
 To run the program, open a terminal or command prompt in the directory where the program is located and type the following command:
 
